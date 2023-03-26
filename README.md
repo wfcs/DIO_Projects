@@ -1,5 +1,5 @@
 # DIO_Projects
-Respositorio para trabalhos e atividades do BootCamp.
+Repositório para trabalhos e atividades do BootCamp.
 
 ##Links:
 
